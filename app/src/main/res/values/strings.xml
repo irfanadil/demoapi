@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewYorkApiDemo</string>
+    <string name="main_fragment">MainFragment</string>
+    <string name="detail_fragment">DetailFragment</string>
+</resources>
